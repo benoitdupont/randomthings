@@ -1,7 +1,7 @@
 +++
-title = 'Best Of: comics and bds'
+title = 'Comics and bds'
 date = 2023-12-22T17:29:29+01:00
-draft = true
+draft = false
 +++
 
 # Comics
