@@ -44,11 +44,7 @@ draft = false
     * Génial, ne pas regarder le résumé pour pas de spoiler
     * https://www.goodreads.com/book/show/35900387-eleanor-oliphant-is-completely-fine?ref=nav_sb_ss_1_12
  
-* Vicious 
-    * Science-fiction/fantasy, superhéros
-    * https://www.goodreads.com/book/show/40874032-vicious
- 
-* Redshirts
+* Redshirts (John Scalzi), SF
     * Science-fiction, drôle, ne pas regarder le résume pour pas de spoilers
     * https://www.goodreads.com/book/show/13055592-redshirts
  
