@@ -1,3 +1,9 @@
++++
+title = 'Go'
+date = 2024-11-03T17:52:56+01:00
+draft = true
++++
+
 # Are you ashamed to be an architect ?
 Are you an architect ?
 
