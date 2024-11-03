@@ -3,11 +3,12 @@ title=  "New Java Developer ? Here's how you can write better code"
 date=  2019-12-21 13:50:18+01:00
 +++
 
-_Work in progress, alpha version 0.3_
-
 Fresh out from university, ready to start your career, wanting to improve your coding skills ? 
 
+<!--more-->
+
 Here's a compilation full of resources that you can read and watch to write better code:
+
 
 _Note: this is a strongly opinionated article from my own experience, for an audience of junior Java developers_
 

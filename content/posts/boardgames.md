@@ -4,6 +4,10 @@ date = 2023-12-22T17:52:56+01:00
 draft = true
 +++
 
+Best boardgames I played
+
+<!--more-->
+
 * Galapagéros
 * Five minute Dungeon
 * Zombicide

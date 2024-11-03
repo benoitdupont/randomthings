@@ -4,10 +4,10 @@ date =   2019-12-20 13:50:18+01:00
 draft = true
 +++
 
-_Work in progress, alpha version 0.2_
-
-
 _Yet another testing framework?_ 
+
+<!--more-->
+
 
 As I was working on a project with a colleague[^1], I found that he systematically used AssertJ assertions. I did not see right away any added value
 compared to plain Junit assertions, but as my initial reluctance faded, I decided to give it a go, and now I'm convinced. I'll try to demonstrate

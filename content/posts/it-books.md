@@ -3,6 +3,9 @@ title =  "Software Development Reading resources"
 date =    2020-01-01 13:50:18+01:00
 +++
 
+
+<!--more-->
+
 _Work in progress, alpha version 0.1_
 
 _I'm trying here to list the books that I read, and try to provide a few words of feedback,
