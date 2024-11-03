@@ -16,10 +16,6 @@ https://www.imdb.com/title/tt0112922/
 * Mirrormask 2005
 https://www.imdb.com/title/tt0366780/
 
-
-* Musique: Chris Rea Auberge
-https://youtube.com/watch?v=iuevw6218F0&si=lVUByf2FEtgIy63D
-
 * Movie: Nimona (anime)
 https://www.imdb.com/title/tt19500164/
 

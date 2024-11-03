@@ -6,6 +6,8 @@ draft = false
 
 # English
 
+## Fantasy 
+
 * Neverwhere (Neil Gaiman)
     * https://en.wikipedia.org/wiki/Neverwhere_(novel)
     * de Neil Gaiman (mon auteur préféré)
@@ -22,12 +24,70 @@ draft = false
 
 * Redshirt 
     * don't read the summary, spoiler alert
-
  
 * Dresden Files (Jim Butcher)
 * Furies of Caledron (Jim Butcher)
 * The Witcher 
  
+* Redshirts (John Scalzi), SF
+    * Science-fiction, drôle, ne pas regarder le résume pour pas de spoilers
+    * https://www.goodreads.com/book/show/13055592-redshirts
+ 
+* The great alone 
+    * Tranche de vie en Alaska dans le grand nord
+    * https://www.goodreads.com/book/show/34912895-the-great-alone
+ 
+* The fireman (Joe Hill) 
+    * Surprenant
+    * https://www.goodreads.com/book/show/25816688-the-fireman
+ 
+* Another Fine Myth - Robert Asprin                  
+
+* Bloodsucking Fiends_ A Love Sto - Christopher Moore
+
+* Howl's Moving Castle - Diana Wynne Jones          
+
+* Lamb, the Gospel According to B - Christopher Moore
+
+* The Ocean at the End of the Lane - Neil Gaiman
+
+* Vicious - V.E. Schwab (Superheros)
+
+* The Lies of Locke Lamora Scott Lynch (fantasy)
+
+* Low Town: Daniel Polanski (fantasy)
+
+* The Builders - Daniel Polanski 
+
+* Glen Cook: black company (Fantasy)
+* Glen Cook: Garret PI serie (Fantasy)
+
+* Wheel of Time - Robert Jordan (Fantasy)
+ 
+* The black prism - Brent Weeks (fantasy)
+
+* Raven's Shadow #1 Blood Song Anthony Ryan (fantasy)
+
+## SF 
+
+* Redshirts - John Scalzi (SF)                     
+
+* Old man's war - John Scalzi (SF)
+* We are Bob (SF)
+* Hitchhiker's Guide to the Galaxy (SF)
+* Dan Abnett: Gaunt Ghosts serie + EisenHorn serie (Warhammer 40k, SF)
+* Dune (SF)
+* Fundation
+
+## Misc 
+
+
+* Sharp Objects - Gillian Flynn  
+
+* The Great Train Robery - The Great Train Robery
+
+* Animal Farm
+
 * The 100 year old man who climbed out the windows and dissapeared
     * Roman, contemporain, léger et bien écrit 
     * https://www.goodrddeads.com/book/show/36578942-the-100-year-old-man-who-climbed-out-the-window-and-disappeared?from_search=true&from_srp=true&qid=La4G2LUx0I&rank=1
@@ -44,67 +104,7 @@ draft = false
     * Génial, ne pas regarder le résumé pour pas de spoiler
     * https://www.goodreads.com/book/show/35900387-eleanor-oliphant-is-completely-fine?ref=nav_sb_ss_1_12
  
-* Redshirts (John Scalzi), SF
-    * Science-fiction, drôle, ne pas regarder le résume pour pas de spoilers
-    * https://www.goodreads.com/book/show/13055592-redshirts
- 
-* The great alone 
-    * Tranche de vie en Alaska dans le grand nord
-    * https://www.goodreads.com/book/show/34912895-the-great-alone
- 
-* The fireman (Joe Hill) 
-    * Surprenant
-    * https://www.goodreads.com/book/show/25816688-the-fireman
- 
-
-* Another Fine Myth - Robert Asprin                  
-
-* Bloodsucking Fiends_ A Love Sto - Christopher Moore
-
-* Howl\s Moving Castle - Diana Wynne Jones          
-
-* Lamb, the Gospel According to B - Christopher Moore
-
-* Redshirts - John Scalzi (SF)                     
-
-* Old man's war - John Scalzi (SF)
-
-* Sharp Objects - Gillian Flynn  
-
-* The Great Train Robery - The Great Train Robery
-
-* The Ocean at the End of the Lane - Neil Gaiman
-
-* Vicious - V.E. Schwab (Superheros)
-
-* We are Bob (SF)
-
-* The Lies of Locke Lamora Scott Lynch (fantasy)
-
-* Low Town: Daniel Polanski (fantasy)
-
-* The Builders - Daniel Polanski 
-
-* Glen Cook: black company (Fantasy)
-* Glen Cook: Garret PI serie (Fantasy)
-
-
-* Wheel of Time - Robert Jordan (Fantasy)
-
-* Hitchhiker's Guide to the Galaxy (SF)
- 
-* Dune (SF)
- 
-* Animal Farm
- 
-* The black prism - Brent Weeks (fantasy)
-
-* Dan Abnett: Gaunt Ghosts serie + EisenHorn serie (Warhammer 40k, SF)
-
-* Raven's Shadow #1 Blood Song Anthony Ryan (fantasy)
-
-
-# French 
+ # French 
  
 * Des fleurs pour Algernon
     * Un classique, dans mes souvenirs c'était bien mais ça date
